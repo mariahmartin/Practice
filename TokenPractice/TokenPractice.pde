@@ -1,7 +1,7 @@
 //******* Token Practice *******//
 // The code returns four white, circular tokens with 
 //values 0-10 on them
-//The code also returns a sum of the token values >6
+//The code also returns a sum of the token values less than 6
 //of the four tokens 
 void setup() {
   size(300, 300);
